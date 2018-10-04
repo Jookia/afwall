@@ -3565,6 +3565,10 @@ public final class Api {
          */
         public boolean selected_lan;
         /**
+         * indicates if this application is selected for tor mode
+         */
+        public boolean selected_tor;
+        /**
          * toString cache
          */
         public String tostr;
